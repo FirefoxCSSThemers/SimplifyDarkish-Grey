@@ -1,5 +1,5 @@
-# Simplify Darkish Firefox Theme
-> The legendary Simplify Darkish Gray theme, made by dpcdpc11, a senior themes expert.
+# Simplify Darkish Grey Firefox Theme
+> The legendary Simplify Darkish Grey theme, made by dpcdpc11, a senior themes expert.
 
 ### Contributors
 > - Made by [**dpcdpc11**](https://www.deviantart.com/dpcdpc11).
