@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Simplify Darkish Grey Firefox Theme
+> The legendary Simplify Darkish Grey theme, made by dpcdpc11, a senior themes expert.
 
-You can use the [editor on GitHub](https://github.com/FirefoxCSSThemers/SimplifyDarkish-Grey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Contributors
+> - Made by [**dpcdpc11**](https://www.deviantart.com/dpcdpc11).
+> - Published by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Compatibility
+> This release was tested on the following platforms (only supports Firefox 70+):
+> - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
+> - Untested on macOS and Linux. This doesn't mean it won't work on these Operating Systems, this just means it isn't tested yet. If you want to contribute, please test it on any of these and fill in an issue with the distro you use or the macOS version it was tested on, and obviously the results.
 
-### Markdown
+#### Note about Automated Installation
+> We're working on an automated script to install the theme. It will be available on the Releases tab as soon as we finish it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Manual Installation Steps
+> Copy the files to the `chrome` folder in your Firefox Profile directory. Here are the detailed install steps:
+> 1. Go to `about:support` in Firefox.
+> 2. Search for Application Basics, find Profile Directory and click on Open Directory.
+> 3. Copy the files mentioned above into the `chrome` folder from the Profile directory (usually has `-release` at the end, and you should create the `chrome` folder if it doesn't already exist).
+> 4. This step is crucial. If you do it wrong, you can brick your Firefox installation.
+>     1. Go to `about:config` in Firefox.
+>     2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to `true` by clicking on the arrow button.
+> 5. Restart Firefox.
+> 6. You're done!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FirefoxCSSThemers/SimplifyDarkish-Grey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### DISCLAIMER
+> All information in the Service is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
+> 
+> The Company will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by the Service or for any consequential, special or similar damages, even if advised of the possibility of such damages.
