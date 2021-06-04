@@ -1,8 +1,8 @@
 # SimplifyDarkish-Grey
 The legendary Simplify Darkish Grey theme, made by dpcdpc11, a senior themes expert.
 # Almost Dark Grey Proton
-![Header](almostdarkColorfullprotonpreview.webp "Almost Dark Colorfull Proton for Firefox")
-![](almostdarkGreyprotonpreview.webp "Almost Dark Grey Proton for Firefox")
+![Header](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes/blob/master/almostdarkColorfullprotonpreview.webp "Almost Dark Colorfull Proton for Firefox")
+![](https://github.com/Neikon/Almost-Dark-Grey-Colorfull-Proton---FirefoxCSS-Themes/blob/master/almostdarkGreyprotonpreview.webp "Almost Dark Grey Proton for Firefox")
 This is a simple fork all credits to https://github.com/CristianDragos/FirefoxThemes and https://github.com/datguypiko/Firefox-Mod-Blur
 
 # How to download and install
